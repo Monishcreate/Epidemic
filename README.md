@@ -22,6 +22,6 @@ This project simulates the spread of an epidemic within a population using graph
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/epidemic-simulation.git
-cd epidemic-simulation
+git clone https://github.com/MonishCreate/Epidemic.git
+cd Epidemic
 
